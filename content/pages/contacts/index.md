@@ -8,7 +8,7 @@ I would love to hear from you! Whether you have a work offer, questions, or comm
 
 You can contact me by sending me an email. I try to respond as soon as possible, so you won't be left hanging.
 
-For more information about my professional background and experience, please take a look at my CV which you can <a href="/doe_cv.pdf" target="_blank" rel="noopener noreferrer">download here</a>.
+For more information about my professional background and experience, please take a look at my CV which you can <a href="/cv_sepicacchi.pdf" target="_blank" rel="noopener noreferrer">download here</a>.
 
 
 Let's connect and explore new opportunities together. I look forward to hearing from you!

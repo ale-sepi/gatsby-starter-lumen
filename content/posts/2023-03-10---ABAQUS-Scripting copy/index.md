@@ -8,7 +8,7 @@ category: "Programming"
 tags:
   - "MATLAB"
   - "Python"
-description: "Dive into the world of data analysis and discover whether MATLAB's matrix operations or Python's versatility is the better choice for you "
+description: "Dive into the world of data analysis and discover whether MATLAB's matrix operations or Python's versatility is the better choice for you."
 socialImage: "./media/notebook.jpg"
 ---
 
