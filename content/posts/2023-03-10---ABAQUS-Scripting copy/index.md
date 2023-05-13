@@ -3,7 +3,7 @@ title: "MATLAB vs Python: The Ultimate Showdown for Programmers"
 date: "2022-03-10"
 template: "post"
 draft: false
-slug: "/posts/abaqus-scripting"
+slug: "/posts/python-matlab"
 category: "Programming"
 tags:
   - "MATLAB"
